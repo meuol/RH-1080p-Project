@@ -21,7 +21,7 @@ The project is optimized for use with Citra
 
 Fever:
 1. Open the .iso/.wbfs with Wiiscrubber or Wiibafu.
-2. 
+  - a
 
 1. Obtain access to 
 2. Upscale the texture (use waifu2x)
